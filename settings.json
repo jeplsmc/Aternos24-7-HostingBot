@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jesusPRIME.aternos.me:32425",
+    "ip": "jesusPRIME.aternos.me",
     "port": 32425,
     "version": "",
     "try-creative": false
